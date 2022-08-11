@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/e9441a98-0e62-4b38-8d5b-c1e0a65004be.svg)](https://wakatime.com/@e9441a98-0e62-4b38-8d5b-c1e0a65004be)
 
 <!--
 **ferhatsezer/ferhatsezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
